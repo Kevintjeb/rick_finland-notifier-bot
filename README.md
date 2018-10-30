@@ -1,1 +1,1 @@
-# rick_finland-notifier-bot
+# rick-finland-bot
